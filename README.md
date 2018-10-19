@@ -1,4 +1,4 @@
-# DEAPMaLeLAr
+#DEAPMaLeLAr
 Machine Learning algorithms for DEAP-3600 and LAr experiments
 
 This project is intended to be the space for sharing the ML codes developed by the CIEMAT-DM group.
@@ -30,5 +30,3 @@ To propagate your commit on the server: git push
 To restore a file (erased or modified): git checkout path/to/my/file.ext
 
 After a commit, you always need to push your modifications !!!
-
-
