@@ -1,4 +1,4 @@
-#DEAPMaLeLAr
+# DEAPMaLeLAr
 
 Machine Learning algorithms for DEAP-3600 and LAr experiments
 
@@ -10,7 +10,7 @@ Please, make sure that your contributions are operative and properly documented 
 
 In case of doubt or need of more info, contact me: vicente.pesudo@ciemat.es
 
-#USEFUL git COMMANDS
+# USEFUL git COMMANDS
 
 To clone the sources from the last release on the repository: git clone https://github.com/vpesudo/deapmalelar.git
 
