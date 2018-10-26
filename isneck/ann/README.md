@@ -14,10 +14,12 @@ It has several layers of hidden layers activated with relu functions, and a fina
 ann_charge_isNeck_mcmvp_binaryclass.py
 (note the vp) is a modification of the code including more data and calling from the command line for the number of epochs, and the number of neurons in each of the layers.
 For instance: 
+
 $ python3.5 ann_charge_isNeck_mcmvp_binaryclass.py 200 128 32 8
+
 Trains an algorithm that trains 
 200 epochs,
-128 in the 1st hidden layer
-32 in the 2nd
-8 in the 3rd
+128 in the 1st hidden layer,
+32 in the 2nd,
+8 in the 3rd.
 
