@@ -23,3 +23,6 @@ Trains an algorithm that trains
 32 in the 2nd,
 8 in the 3rd.
 
+# Observations and lessons
+
+It has been observed that increasing the sizeofbatch from 0.5 to 0.75 does not help in doing better predictions. All the models seem to reach the point where the test and train tendences diverge with epochs, pointing in the direction of lack of statistics.
